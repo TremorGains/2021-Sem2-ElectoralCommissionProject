@@ -1,0 +1,110 @@
+Candidate_ID: 1
+Symbol: Labour
+Name:    Miles Wattson
+Age: 24
+Gender: M
+Buisiness_Email: wattson.miles@labour.com.au
+Address:    31 Superior Street
+Suburb: Gloryton
+Postcode: 3845
+Vote_Count: 94
+
+Candidate_ID: 2
+Symbol: Liberal
+Name:    Tony Maloney
+Age: 45
+Gender: M
+Buisiness_Email: maloney.tony@liberal.com.au
+Address:    19 Chill Street
+Suburb: Devonsdale
+Postcode: 3117
+Vote_Count: 7
+
+Candidate_ID: 3
+Symbol: Greens
+Name:    Julie Fox
+Age: 36
+Gender: F
+Buisiness_Email: fox.julie@greens.com.au
+Address:    77 Ronins Court
+Suburb: Houston
+Postcode: 3616
+Vote_Count: 93
+
+Candidate_ID: 4
+Symbol: Labour
+Name:    Lucius Corsely
+Age: 51
+Gender: M
+Buisiness_Email: coresely.lucius@labour.com.au
+Address:    15 March Road
+Suburb: Paradia
+Postcode: 3322
+Vote_Count: 12
+
+Candidate_ID: 5
+Symbol: Liberal
+Name:    Carson Stable
+Age: 31
+Gender: NULL
+Buisiness_Email: stable.carson@liberal.com.au
+Address:    23 Europa Way
+Suburb: Tithourne
+Postcode: 3956
+Vote_Count: 43
+
+Candidate_ID: 6
+Symbol: Nationals
+Name:    Gary Min
+Age: 37
+Gender: M
+Buisiness_Email: min.gary@nationals.com.au
+Address:    31 Nessus Grove
+Suburb: Kretta
+Postcode: 3811
+Vote_Count: 16
+
+Candidate_ID: 7
+Symbol: Greens
+Name:    Pam Clover
+Age: 39
+Gender: F
+Buisiness_Email: clover.pam@greens.com.au
+Address:    81 Midnight Street
+Suburb: Parksville
+Postcode: 3587
+Vote_Count: 13
+
+Candidate_ID: 8
+Symbol: Labour
+Name:    Harold Charon
+Age: 44
+Gender: M
+Buisiness_Email: charon.harold@labour.com.au
+Address:    94 Solar Drive
+Suburb: Hastings
+Postcode: 3915
+Vote_Count: 38
+
+Candidate_ID: 9
+Symbol: Liberal
+Name:    Hugh Reynolds
+Age: 34
+Gender: M
+Buisiness_Email: reynolds.hugh@liberal.com.au
+Address:    42 Wolverine Avenue
+Suburb: Eventide
+Postcode: 3289
+Vote_Count: 55
+
+Candidate_ID: 10
+Symbol: Nationals
+Name:    George Christian
+Age: 47
+Gender: M
+Buisiness_Email: christian.george@nationals.com.au
+Address:    3 Omega Way
+Suburb: Mentone
+Postcode: 3194
+Vote_Count: 12
+
